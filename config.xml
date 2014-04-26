@@ -4,6 +4,7 @@
         id          = "com.CptnTiller.hubwanderer"
         version     = "3.3.0" >
 
+    <preference name="phonegap-version" value="3.3.0" />
     <name>Hubwanderer</name>
 
     <description>
